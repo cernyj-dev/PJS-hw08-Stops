@@ -1,0 +1,24 @@
+{
+  "name": "pjs-hw-08",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hw-08.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "CTU",
+    "FIT",
+    "BI-PJS"
+  ],
+  "author": "Oldřich Malec",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "jest-environment-jsdom": "^29.7.0",
+    "@types/jest": "^29.5.12"
+  },
+  "jest": {
+    "testEnvironment": "jsdom"
+  }
+}

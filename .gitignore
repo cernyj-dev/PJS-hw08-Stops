@@ -1,0 +1,6 @@
+node_modules
+*-reference.js
+.pnpm-store
+.idea
+.nvmrc
+.DS_Store
